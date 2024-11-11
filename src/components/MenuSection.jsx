@@ -94,9 +94,8 @@ function MenuSection({ panelType }) { // Accept `panelType` as a prop
                   color: activeItem === item.text ? 'black' : 'grey',
                   '&:hover': {
                     backgroundColor: 'transparent',
-          
                   },
-                  height:'45px',
+                  height: '45px',
                 }}
               >
                 <ListItemIcon>
