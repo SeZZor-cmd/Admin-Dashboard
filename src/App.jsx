@@ -26,8 +26,8 @@ import CDashboard from './pages/Client/CDashboard';
 import CLeads from './pages/Client/CLeads';
 
 import Vendor from './pages/Vendor/Vendor';
-import VendorDashboard from './pages/Vendor/vendorDashboard';
-import VendorLeads from './pages/Vendor/vendorLeads';
+import VendorDashboard from './pages/Vendor/VendorDashboard';
+import VendorLeads from './pages/Vendor/VendorLeads';
 
 function App() {
   return (
